@@ -1,0 +1,3 @@
+./encrypted_tweets.txt ./out.txt
+./enrejer ./ehoejrne
+/home/alecppt/Desktop/OS/assignments/AS2/test/mytests/a1-tst/testdata/t2-et-Assignment-Example.txt /home/alecppt/Desktop/OS/assignments/AS2/test/mytests/a1-tst/testdata/t2test
